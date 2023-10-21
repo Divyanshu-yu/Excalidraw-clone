@@ -1,85 +1,81 @@
 @import url("https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap");
 
-
-
-.menu{
-    background-color: #ececf4;
+.menu {
+  background-color: #ececf4;
 }
 
-.psearch{
-    margin-left: 120px;
-    /* padding: 2px; */
-    border: 3px solid rgb(232, 232, 232);
-    border-radius: 10px;
-   
+.psearch {
+  margin-left: 120px;
+  /* padding: 2px; */
+  border: 3px solid rgb(232, 232, 232);
+  border-radius: 10px;
 }
 
-.profile{
-    background-color: #6965db;
+.profile {
+  background-color: #6965db;
 }
 
-.library{
-    background-color: #ececf4;
+.library {
+  background-color: #ececf4;
 }
 
 /* Assistant, system-ui, BlinkMacSystemFont, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif */
 
-.canva{
-    color: #b8b8b8;
-    font-size: 12px;;
-    font-weight: bolder;
+.canva {
+  color: #b8b8b8;
+  font-size: 12px;
+  font-weight: bolder;
 }
 
-.unlock{
-    background-color: #e0dfff;
+.unlock {
+  background-color: #e0dfff;
 }
-.cursor{
-    background-color: #e0dfff;
-}
-
-.main{
-    margin-top: 80px;
-    display: flex;
-    justify-content: center;
+.cursor {
+  background-color: #e0dfff;
 }
 
-.text{
-    padding-left: 10px;
-    font-family: cursive;
-    font-weight: 900;
-    font-size: 35px;
-    color: #190064;
+.main {
+  margin-top: 80px;
+  display: flex;
+  justify-content: center;
 }
 
-.pre{
-    display: flex;
-    justify-content: center;
-   
+.text {
+  padding-left: 10px;
+  font-family: cursive;
+  font-weight: 900;
+  font-size: 35px;
+  color: #190064;
 }
 
-.text-2{
-    font-family: cursive;
-    font-weight: 900;
-    font-size: 20px;
-    color: #b8b8b8 ;
+.pre {
+  display: flex;
+  justify-content: center;
 }
 
-.bottomleft{
-    position:fixed;
-    bottom:5px;
-    left:10px;
-}
-.bfooter{
-    background-color:#ececf4;
+.text-2 {
+  font-family: cursive;
+  font-weight: 900;
+  font-size: 20px;
+  color: #b8b8b8;
 }
 
-.bottomright{
-    position:fixed;
-    bottom:5px;
-    right:10px;
+.bottomleft {
+  position: fixed;
+  bottom: 5px;
+  left: 10px;
+}
+.bfooter {
+  background-color: #ececf4;
 }
 
-.unlock:hover{
-    background-color: #e0dfff;
-    color: #b8b8b8;
+.bottomright {
+  position: fixed;
+  bottom: 5px;
+  right: 10px;
+}
+
+.unlock:hover {
+  background-color: #e0dfff;
+  color: #b8b8b8;
 }
